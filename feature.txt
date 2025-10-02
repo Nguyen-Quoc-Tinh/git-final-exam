@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống điểm thưởng
+1. Người dùng được thưởng điểm khi commit đều đặn
+2. Điểm được lưu trong file log
+3. Có thể đổi điểm lấy huy hiệu
+4. Quản lý bởi admin
+5. Hiển thị trên dashboard
