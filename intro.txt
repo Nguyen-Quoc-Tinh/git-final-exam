@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-- Tôi tên là Nguyễn Quốc Tính, hiện đang là sinh viên CNTT.
+- Xin chào, tôi là Nguyễn Quốc Tính, hiện đang là sinh viên CNTT.
 - Tôi quan tâm đến lĩnh vực an ninh mạng và lập trình.
 - Tôi thích học hỏi công nghệ mới.
 - Tôi muốn phát triển kỹ năng Git và GitHub.
