@@ -1,0 +1,23 @@
+Giới thiệu cá nhân:
+- Tôi tên là Nguyễn Quốc Tính, hiện đang là sinh viên CNTT.
+- Tôi quan tâm đến lĩnh vực an ninh mạng và lập trình.
+- Tôi thích học hỏi công nghệ mới.
+- Tôi muốn phát triển kỹ năng Git và GitHub.
+- Tôi mong muốn được tham gia nhiều dự án thực tế.
+
+Sở thích:
+1. Đọc sách
+2. Chơi thể thao
+3. Lập trình
+
+Kỹ năng:
+1. Lập trình Python
+2. Quản lý Git cơ bản
+3. Làm việc nhóm
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git trong tháng này.
+- Rèn luyện kỹ năng lập trình Python hàng ngày.
+- Tìm hiểu thêm về Linux và hệ điều hành.
+- Tham gia các bài tập an ninh mạng cơ bản.
+- Làm quen với quy trình phát triển phần mềm nhóm.
